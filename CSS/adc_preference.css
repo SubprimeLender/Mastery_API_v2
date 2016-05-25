@@ -1,0 +1,34 @@
+.col-centered {
+	float: none;
+	margin: 0 auto;
+}
+
+.img-small {
+	width: 60%;
+	height: auto;
+}
+
+.bg-white {
+	background-color: #fff;
+}
+
+.marginned {
+	padding-right: 5%;
+}
+
+.border-highlight {
+	border:4px solid #00BBFF;   
+}
+
+.col-centered{
+	float: none;
+	margin: 0 auto;
+}
+
+body {
+	background-image: url('imgs/diana_leona_bg.png');
+	background-position: center center;
+	background-repeat: no-repeat;
+	background-attachment: fixed;
+	background-size: cover;
+}

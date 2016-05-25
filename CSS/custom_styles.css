@@ -1,0 +1,78 @@
+.champ-container {
+	padding-right: 15px;
+	padding-left: 15px;
+	margin-right: 15px;
+	margin-left: 15px;
+	min-width: 140px;
+	min-height: 340px;
+	background-size: 100%;
+	background-repeat: no-repeat;	
+}
+
+.center {
+	float: none;
+	margin-left: auto;
+	margin-right: auto;
+}
+
+.top-pad {
+	padding-top: 7%;
+}
+
+.footer-below {
+  position: absolute;
+  right: 0;
+  bottom: 0;
+  left: 0;
+  padding: 1rem;
+  background-color: transparent;
+  text-align: center;
+}
+
+.small-margin {
+	margin: 10px;
+}
+
+.img-small {
+	width: 60%;
+	height: auto;
+}
+
+.bg-white {
+	background-color: #fff;
+}
+
+.bracketed {
+	border-right: 0.5em solid #fa4d29;
+	border-left: 0.5em solid #217bdb;
+}
+
+.bar-red-right {
+	float: left;
+	height: 30%;
+	background: #fa4d29;
+}
+
+.bar-blue-left {
+	float: right;
+	height: 30%;
+	background: #217bdb;
+}
+
+.no-pad {
+	padding-left: 0px;
+	padding-right: 0px;
+}
+
+.responsive-heading {
+	height:20%;
+	max-height: 127px;
+}
+
+#team-bar-inner {
+	height: 65%;
+}
+
+#spacing-dummy {
+	height: 35%;
+}
